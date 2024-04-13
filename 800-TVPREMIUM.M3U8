@@ -46,42 +46,36 @@ http://186.148.196.82:8000/play/ligamax1
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD2
 http://190.102.139.247:8999/play/a12f/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD3
-http://38.43.151.206:8000/play/a069/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD4
 http://190.102.139.244:8999/play/a12f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD5
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD4
 http://190.102.139.253:8999/play/a12f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD6
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD5
 http://190.102.139.251:8999/play/a12f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD7
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD6
 http://200.37.186.109:8000/play/a08v/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD8
-http://161.132.112.54:1000/play/a16i
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD9
-http://161.132.112.54:1000/play/a07x
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD10
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD7
 http://190.102.139.242:8999/play/a12f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD11
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD8
 http://190.102.139.245:8999/play/a12f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD12
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD9
 http://190.102.139.250:8999/play/a12f/index.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD13
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD10
 http://38.25.46.192:4000/play/a08z/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD14
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD11
 http://38.25.46.238:4000/play/a08z/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD15
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD12
 http://38.25.45.241:50000/play/a04r/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD16
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD13
 http://38.62.232.25:8000/play/a002/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD17
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD14
 http://38.252.218.179:4000/play/a08z/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD18
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD15
 http://179.1.146.21:8000/play/a095/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX HD19
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX HD16
 http://181.176.19.154:8000/play/a06k 
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX HD20
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX HD17
 http://38.43.132.86:8000/play/a03b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX HD21
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX HD18
 http://177.53.155.236:8000/play/a0bt/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",GOLPERU HD1
 http://191.97.58.41:8001/play/a008
