@@ -1,46 +1,4 @@
 #EXTM3U 
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DIRECTV SPORT1 PE HD1
-http://moontools.me:8080/dannygonz3/2hNxCL3UgNQR/1481381
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DIRECTV SPORT1 PE HD2
-http://moontools.me:8080/andresMesA/msUgx3ExWsQh/1481381
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DIRECTV SPORT1 PE HD3
-http://moontools.me:8080/andresMesA/msUgx3ExWsQh/1194934
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DIRECTV SPORT1 PE HD4
-http://moontools.me:8080/andresMesA/msUgx3ExWsQh/1164450
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DIRECTV SPORT1 PE HD5
-http://moontools.me:8080/andresMesA/msUgx3ExWsQh/26816
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DIRECTV SPORT1 PE HD6
-http://moontools.me:8080/andresMesA/msUgx3ExWsQh/46837
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DIRECTV SPORT2 PE HD1
-http://oaktvpro.club:8080/944017125/Alan2xis/132104
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DIRECTV SPORT+ PE HD1
-http://moontools.me:8080/andresMesA/msUgx3ExWsQh/1133428
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1 HD1
-http://200.37.186.109:8000/play/a08z/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1 HD2
-http://161.132.112.54:1000/play/a09w
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1 HD3
-http://190.119.178.46:8000/play/a00c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1 HD4
-http://190.119.178.44:8000/play/a03v/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX(PRUEBAS).HD1
-http://moontools.me:8080/dannygonz3/2hNxCL3UgNQR/1390974
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX(PRUEBAS).HD2
-http://moontools.me:8080/andresMesA/msUgx3ExWsQh/1390974
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX(PRUEBAS).HD3
-http://moontools.me:8080/luis661/f9vYKVs57rdc/1390974
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX(PRUEBAS).HD4
-http://moontools.me:8080/victorvel001/xpNRGwPVLhAy/1390974
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX(PRUEBAS).HD5
-http://oaktvpro.club:8080/944017125/Alan2xis/3494
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX(PRUEBAS).HD6
-http://oaktvpro.club:8080/944017125/Alan2xis/3439
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX(PRUEBAS).HD8
-http://moontools.me:8080/andresMesA/msUgx3ExWsQh/1395442
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX(PRUEBAS).HD9
-http://moontools.me:8080/luis661/f9vYKVs57rdc/1395442
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX(PRUEBAS).HD10
-http://moontools.me:8080/victorvel001/xpNRGwPVLhAy/1395442
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD1
 http://186.148.196.82:8000/play/ligamax1 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",Liga1MAX FHD2
